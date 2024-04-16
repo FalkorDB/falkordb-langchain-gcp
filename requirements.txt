@@ -1,0 +1,6 @@
+langchain
+langchain-experimental
+falkordb
+wikipedia
+huggingface_hub
+langchain-google-genai
